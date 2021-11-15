@@ -31,6 +31,4 @@ function reverseString(str){
     return dateInStr;
   }
   
-  var date = {day: 4, month: 2, year: 2020};
   
-  console.log(getDateAsString(date));
